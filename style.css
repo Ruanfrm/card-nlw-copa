@@ -61,10 +61,10 @@ header {
   line-height: 140%;
 }
 
-.info p {
+/* .info p {
   font-size: 14px;
   line-height: 160%;
-}
+} */
 
 @keyframes appear {
   to {
